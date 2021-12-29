@@ -2,4 +2,7 @@ results/*
 results
 *-checkpoint*
 gathered_data.csv
-cleaned_data.csv
+away_bet_inputs.csv
+home_bet_inputs.csv
+over_bet_inputs.csv
+under_bet_inputs.csv
